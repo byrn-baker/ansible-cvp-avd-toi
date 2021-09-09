@@ -3,6 +3,10 @@
 # Ansible AVD & CVP TOI Labs
 
 ## About
+Forked this lab repo because I want to replace the generation of the static group_var files with a SoT like Nautobot or Netbox. 
+
+
+
 
 This repository is part of the [Arista Netdevops Community](https://github.com/arista-netdevops-community) and provides lab material that is using [`arista.cvp`](https://github.com/aristanetworks/ansible-cvp) & [`arista.avd`](https://github.com/aristanetworks/ansible-avd) ansible collections. It contains lab playbooks and jinja templates.
 

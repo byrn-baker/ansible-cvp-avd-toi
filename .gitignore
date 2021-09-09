@@ -7,3 +7,4 @@
 
 *.retry
 */collections/*
+.venv/
